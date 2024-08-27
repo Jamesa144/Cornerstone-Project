@@ -13,4 +13,4 @@ once you hit the submit button it does the calculations and then you hit the sav
 
 ![CornerstoneProject3](https://github.com/user-attachments/assets/4d4ab853-b2a5-4842-bd25-bd1499d84d6c)
 
-Overall the program works as a proof of concept but wouldn't recommend for real use. 
+My goal was to demonstrate the importance of integrating security measures early in the software development process to prevent issues down the line. In my program, I implemented input validation using regular expressions to restrict values in each section, ensuring that only appropriate data is accepted. If the input fails validation, an error is triggered. While this approach isn't foolproof, it adds an additional layer of protection to help safeguard users' data.
